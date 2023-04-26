@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-04-26T14:20:26.611125+03:00"
+entries:
+  ingress-secrets:
+  - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2023-04-26T14:28:49.210889+03:00"
+    description: A Helm chart for Ingress Secrets
+    digest: 853e7cf8b5495fafa33ee1c7ddd781549edaecfff67a16977618d3166c411d83
+    name: ingress-secrets
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/margusja/helm-chart-remo-demo/main/ingress-secrets-0.1.30.tgz
+    version: 0.1.30
+generated: "2023-04-26T14:28:49.210046+03:00"
